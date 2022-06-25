@@ -1,0 +1,6 @@
+framework module Pods_EllcoBugTrackers {
+  umbrella header "Pods-EllcoBugTrackers-umbrella.h"
+
+  export *
+  module * { export * }
+}
